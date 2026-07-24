@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-[![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?username=anuraghazra)](https://github.com/stats-organization/github-stats-extended)
+[![Goez's GitHub stats](https://github-stats-extended.vercel.app/api?username=Goezs)](https://github.com/stats-organization/github-stats-extended)
 
 <!--
 **Goezs/Goezs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
