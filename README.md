@@ -28,11 +28,11 @@
 <p align="center">
   <!-- GitHub Stats Card -->
   <a href="https://github.com/stats-organization/github-stats-extended">
-    <img src="https://vercel.app" alt="Goezs's GitHub stats" height="180" />
+    <img src="https://vercel.app/api?username=Goezs" alt="Goezs's GitHub stats" height="180" />
   </a>
   <!-- Top Languages Card -->
   <a href="https://github.com/stats-organization/github-stats-extended">
-    <img src="https://vercel.app" alt="Top Languages" height="180" />
+    <img src="https://vercel.app/api?username=Goezs" alt="Top Languages" height="180" />
   </a>
 </p>
 
@@ -47,7 +47,7 @@
 
 ### 📈 Contribution History
 <p align="center">
-  <img src="https://vercel.app" alt="Activity Graph" width="100%" />
+  <img src="https://vercel.app/api?username=Goezs" alt="Activity Graph" width="100%" />
 </p>
 
 [![Goez's GitHub stats](https://github-stats-extended.vercel.app/api?username=Goezs)](https://github.com/stats-organization/github-stats-extended)
