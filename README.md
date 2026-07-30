@@ -16,18 +16,15 @@
 
 [![Goez's GitHub stats](https://github-stats-extended.vercel.app/api?username=Goezs)](https://github.com/stats-organization/github-stats-extended)
 
-<p align="center">
-  <!-- GitHub Streak Stats -->
-  [![GitHub Stats](https://github-stats-extended.vercel.app/api/pin?username=Goezs&repo=anuraghazra%2Fgithub-readme-stats&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
-</p>
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/pin?username=Goezs&repo=anuraghazra%2Fgithub-readme-stats&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
 
 ---
 
 ### 📈 Contribution History
-<p align="center">
-  [![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=Goezs&langs_count=4&theme=dark)](https://github-stats-extended.vercel.app/api/top-langs?username=Goezs&langs_count=4&theme=dark)
-</p>
+
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=Goezs&langs_count=4&theme=dark)](https://github-stats-extended.vercel.app/api/top-langs?username=Goezs&langs_count=4&theme=dark)
 
 
 <!--
