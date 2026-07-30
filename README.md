@@ -17,7 +17,7 @@
 <!-- Overall -->
 
 <a href="https://github-stats-extended.vercel.app/api?username=Goezs">
-  <img align="center" src="https://github-stats-extended.vercel.app/api?username=Goez" />
+  <img align="center" src="https://github-stats-extended.vercel.app/api?username=Goezs" />
 </a>
 
 ---
