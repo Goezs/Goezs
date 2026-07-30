@@ -13,10 +13,8 @@
 
 ### 📊 GitHub Stats Extended
 
-<p align="center">
-  <!-- GitHub Stats Card -->
-  [![Goez's GitHub stats](https://github-stats-extended.vercel.app/api?username=Goezs)](https://github.com/stats-organization/github-stats-extended)
-</p>
+
+[![Goez's GitHub stats](https://github-stats-extended.vercel.app/api?username=Goezs)](https://github.com/stats-organization/github-stats-extended)
 
 <p align="center">
   <!-- GitHub Streak Stats -->
