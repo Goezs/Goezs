@@ -14,10 +14,10 @@
 ### 📊 GitHub Stats Extended
 
 
-[![Goez's GitHub stats](https://github-stats-extended.vercel.app/api?username=Goezs)](https://github.com/stats-organization/github-stats-extended)
+[![Goez's GitHub stats](https://github-stats-extended.vercel.app/api?username=Goezs)](https://github-stats-extended.vercel.app/api?username=Goezs)
 
 
-[![GitHub Stats](https://github-stats-extended.vercel.app/api/pin?username=Goezs&repo=kanji-with-radicalsb%2Fgithub-readme-stats&theme=dark)](https://github.com/Goezs/kanji_with_radicals)
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/pin?username=Goezs&repo=Goezs/kanji_with_radicals&theme=dark)](https://github.com/Goezs/kanji_with_radicals)
 
 
 ---
