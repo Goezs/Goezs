@@ -17,7 +17,7 @@
 [![Goez's GitHub stats](https://github-stats-extended.vercel.app/api?username=Goezs)](https://github.com/stats-organization/github-stats-extended)
 
 
-[![GitHub Stats](https://github-stats-extended.vercel.app/api/pin?username=Goezs&repo=anuraghazra%2Fgithub-readme-stats&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/pin?username=Goezs&repo=kanji-with-radicalsb%2Fgithub-readme-stats&theme=dark)](https://github.com/Goezs/kanji_with_radicals)
 
 
 ---
