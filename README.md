@@ -20,15 +20,15 @@
   <img align="center" src="https://github-stats-extended.vercel.app/api?username=Goez" />
 </a>
 
+---
 
 <!-- Pin project -->
 
 <a href="https://github.com/Goezs/kanji_with_radicals">
   <img align="center" src="https://github-stats-extended.vercel.app/api/pin?username=Goezs&repo=kanji_with_radicals&theme=dark" />
 </a>
+
 ---
-
-
 
 ### 📈 Contribution History
 
