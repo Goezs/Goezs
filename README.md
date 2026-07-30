@@ -1,8 +1,4 @@
-# Hi there, I'm <Your Name> 👋
-
-<p align="center">
-  <img src="https://herokuapp.com" alt="Typing SVG" />
-</p>
+# Hi there, I'm <Andrés Goez> 👋
 
 ---
 
@@ -14,43 +10,27 @@
 
 ---
 
-### 🛠️ Tech Stack & Tools
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev" />
-  </a>
-</p>
-
----
 
 ### 📊 GitHub Stats Extended
 
 <p align="center">
   <!-- GitHub Stats Card -->
-  <a href="https://github.com/stats-organization/github-stats-extended">
-    <img src="https://vercel.app/api?username=Goezs" alt="Goezs's GitHub stats" height="180" />
-  </a>
-  <!-- Top Languages Card -->
-  <a href="https://github.com/stats-organization/github-stats-extended">
-    <img src="https://vercel.app/api?username=Goezs" alt="Top Languages" height="180" />
-  </a>
+  [![Goez's GitHub stats](https://github-stats-extended.vercel.app/api?username=Goezs)](https://github.com/stats-organization/github-stats-extended)
 </p>
 
 <p align="center">
   <!-- GitHub Streak Stats -->
-  <a href="https://github.com/denvercoder1/github-readme-streak-stats">
-    <img src="https://demolab.com" alt="GitHub Streak" />
-  </a>
+  [![GitHub Stats](https://github-stats-extended.vercel.app/api/pin?username=Goezs&repo=anuraghazra%2Fgithub-readme-stats&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
 </p>
 
 ---
 
 ### 📈 Contribution History
 <p align="center">
-  <img src="https://vercel.app/api?username=Goezs" alt="Activity Graph" width="100%" />
+  [![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=Goezs&langs_count=4&theme=dark)](https://github-stats-extended.vercel.app/api/top-langs?username=Goezs&langs_count=4&theme=dark)
 </p>
 
-[![Goez's GitHub stats](https://github-stats-extended.vercel.app/api?username=Goezs)](https://github.com/stats-organization/github-stats-extended)
 
 <!--
 **Goezs/Goezs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
